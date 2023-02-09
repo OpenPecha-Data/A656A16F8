@@ -1,0 +1,15 @@
+id: A656A16F8
+title: 'MSV 1,17: Saṃghabhedavastu'
+type: translation
+pechas:
+- IF8C0A609
+- I3DFC71D8
+source_metadata:
+  languages:
+  - bo
+  datatype: PlainText
+  created_at: 2023-02-09 15:12:43.326489
+  last_modified_at: 2023-02-09 15:12:43.326503
+alignment_to_base:
+  IF8C0A609/ED63: 6D3D
+  I3DFC71D8/2818: 6D3D
